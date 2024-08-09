@@ -5,11 +5,13 @@ This repository contains datasets (in CSV format) with statistics from the Itali
 - Originals: The raw datasets as downloaded, located in the _originals_ folder.
 - Finals: The cleaned and manipulated datasets, located in the _finals_ folder. These datasets are ready for direct use in statistical analysis.
 
-
 This repository contains some datasets (as csv files) with the statistics of the italian LBA (Lega Basket A) champion.
 In the _originals_ folder it is possible to find the datasets as downloaded.
 In the _finals_ folder it is possible to find the datasets manipulated: ideally these datasets can be used directly for statistical analysis.
 
+The data (both teams and players) cover the seasons from 1987-1988 to 2023-2024.
+
+The dataset _teams_playoff_final_winner_1987-88_2023-24_, located in the _originals_ folder, contains detailed information for each team from the 1987 to 2023 seasons. It includes whether a team qualified for the playoffs, reached the playoff final, and if they ultimately won the championship. This file it is merged with the team statistcs to obtain a single dataset with all the information for the teams.
 
 ## Datasets
 ### Players Dataset
