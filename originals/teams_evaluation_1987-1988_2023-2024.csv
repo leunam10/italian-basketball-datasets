@@ -1,0 +1,1233 @@
+#,Squadra,Giocate,Min,Totale,Media,40 Min
+1,"(2001) 
+Benetton Treviso",36,7250,3359,116.3,115.4
+2,"(2002) 
+Benetton Treviso",34,6825,3093,117.2,116.7
+3,"(2007) 
+Montepaschi Siena",34,6825,2998,113.8,113.4
+4,"(2001) 
+Kinder Bologna",36,7225,3121,106.3,105.9
+5,"(2001) 
+Montepaschi Siena",36,7300,2975,103.4,101.9
+6,"(2003) 
+Benetton Treviso",34,6625,2943,109.4,112.3
+7,"(2000) 
+Benetton Treviso",34,6850,2964,106.7,105.9
+8,"(2001) 
+Skipper Bologna",36,7200,3075,100.8,100.8
+9,"(2006) 
+Montepaschi Siena",34,6875,2943,106.5,105.3
+10,"(2003) 
+Montepaschi Siena",34,6825,3014,106.4,106
+11,"(2000) 
+Kinder Bologna",34,6850,3018,106.1,105.3
+12,"(2001) 
+Metis Varese",36,7200,3086,99.1,99.1
+13,"(2004) 
+Benetton Treviso",34,6825,2836,103.8,103.4
+14,"(2003) 
+Teramo Basket",34,6875,3098,103.6,102.5
+15,"(2004) 
+Montepaschi Siena",34,6825,2875,103.6,103.3
+16,"(2005) 
+Carpisa Napoli",34,6875,3051,103.4,102.3
+17,"(2004) 
+Climamio Bologna",34,6925,2897,102.7,100.9
+18,"(1994) 
+Buckler Bologna",32,6425,2866,109,108.5
+19,"(1989) 
+Scavolini Pesaro",30,6025,2944,116,115.6
+20,"(2007) 
+Pierrel Capo d'Orlando",34,6875,2941,102.1,101
+21,"(2005) 
+Benetton Treviso",34,6875,2862,102.1,100.9
+22,"(2000) 
+Müller Verona",34,6850,3056,102.1,101.3
+23,"(1987) 
+Tracer Milano",30,6025,3055,115.5,115.1
+24,"(2003) 
+Skipper Bologna",34,6770,2947,101.9,102.3
+25,"(1988) 
+Enichem Livorno",30,6050,2897,115.3,114.3
+26,"(2001) 
+Oregon Scientific Cantu'",36,7225,2979,96.1,95.7
+27,"(2007) 
+Air Avellino",34,6825,2878,101.2,100.9
+28,"(2005) 
+Climamio Bologna",34,6875,2929,101.1,100
+29,"(1995) 
+Buckler Bologna",32,6450,2889,106.8,106
+30,"(2008) 
+Montepaschi Siena",30,6050,2651,113.8,112.9
+31,"(2000) 
+Varese Roosters",34,6825,3020,100.4,100
+32,"(2001) 
+Fabriano Basket",36,7275,2983,94.6,93.6
+33,"(2002) 
+Montepaschi Siena",34,6850,2813,100,99.3
+34,"(2001) 
+Scavolini Pesaro",36,7275,3003,94.2,93.2
+35,"(2002) 
+Skipper Bologna",34,6800,2796,99,99
+36,"(2000) 
+Scavolini Pesaro",34,6875,2969,98.9,97.8
+37,"(2000) 
+Paf Bologna",34,6900,2750,98.9,97.4
+38,"(1990) 
+Scavolini Pesaro",30,6050,3004,111.9,110.9
+39,"(2007) 
+Premiata Montegranaro",34,6850,2853,98.6,97.9
+40,"(1987) 
+Arexons Cantù",30,6075,2815,111.7,110.3
+41,"(2000) 
+Viola Reggio Calabria",34,6825,2939,98.4,98
+42,"(2005) 
+Armani Jeans Milano",34,6850,2826,98.1,97.4
+43,"(1989) 
+A. Ranger Varese",30,6025,2860,111.1,110.6
+44,"(2000) 
+Montepaschi Siena",34,6875,2810,97.9,96.8
+45,"(2007) 
+Siviglia Wear Teramo",34,6850,2845,97.7,97
+46,"(1994) 
+Cagiva Varese",32,6475,2874,103.6,102.4
+47,"(1987) 
+Basket Brescia",30,6100,3035,110.5,108.7
+48,"(2001) 
+Lauretana Biella",36,7300,2966,91.9,90.6
+49,"(1990) 
+Auxilium Torino",30,6020,2903,110.2,109.8
+50,"(2005) 
+Angelico Biella",34,6850,2730,97.1,96.4
+51,"(2005) 
+VidiVici Bologna",34,6825,2887,96.6,96.3
+52,"(2004) 
+Vertical Vision Cantu'",34,6850,2911,96.6,95.9
+53,"(2023) 
+Virtus Segafredo Bologna",30,6050,2668,109.5,108.6
+54,"(2001) 
+De Vizia Avellino",36,7250,2869,91.1,90.5
+55,"(2000) 
+Adr Roma",34,6850,2818,96.4,95.7
+56,"(2005) 
+Montepaschi Siena",34,6850,2763,96.4,95.6
+57,"(1991) 
+Philips Milano",30,6050,2842,108.9,108
+58,"(2001) 
+Viola Reggio Calabria",36,7250,2972,90.8,90.1
+59,"(1991) 
+Benetton Treviso",30,6000,2736,108.7,108.7
+60,"(2003) 
+Metis Varese",34,6850,2906,95.9,95.2
+61,"(2004) 
+Armani Jeans Milano",34,6825,2680,95.9,95.5
+62,"(2000) 
+BingoSNAI Montecatini",34,6850,2806,95.7,95
+63,"(2021) 
+Virtus Segafredo Bologna",30,6080,2666,108.4,107
+64,"(2021) 
+Virtus Segafredo Bologna",30,6080,2666,108.4,107
+65,"(1987) 
+Divarese Varese",30,6100,2840,108.4,106.6
+66,"(2001) 
+Adecco Milano",36,7300,2953,90.2,88.9
+67,"(2000) 
+Lineltex Imola",34,6900,2894,95.5,94.1
+68,"(2003) 
+Scavolini Pesaro",34,6700,2918,95.4,96.9
+69,"(2006) 
+Climamio Bologna",34,6850,2764,95.3,94.6
+70,"(1987) 
+Hitachi Venezia",30,6025,2855,108,107.5
+71,"(2002) 
+Oregon Scientific Cantu'",34,6800,2718,95.1,95.1
+72,"(1994) 
+Benetton Treviso",32,6425,2781,101.1,100.7
+73,"(2009) 
+Montepaschi Siena",28,5600,2485,115.3,115.3
+74,"(2003) 
+Euro Roseto",34,6570,2841,94.9,98.2
+75,"(2001) 
+Müller Verona",36,7225,2852,89.5,89.2
+76,"(2003) 
+Lauretana Biella",34,6900,2756,94.7,93.3
+77,"(1987) 
+Enichem Livorno",30,6050,2782,107.3,106.4
+78,"(2004) 
+Pompea Napoli",34,6900,2885,94.5,93.2
+79,"(2006) 
+Siviglia Wear Teramo",34,6800,2758,94.5,94.5
+80,"(1989) 
+Enimont Livorno",30,6025,2699,107.1,106.6
+81,"(2005) 
+Basket Livorno",34,6925,2764,94.4,92.7
+82,"(2000) 
+Vip Rimini",34,6800,2914,94.4,94.4
+83,"(2005) 
+Snaidero Udine",34,6850,2819,94.3,93.6
+84,"(2003) 
+Pompea Napoli",34,6825,2858,94.3,94
+85,"(1987) 
+Snaidero Caserta",30,6000,2927,106.9,106.9
+86,"(1991) 
+Il Messaggero Roma",30,6050,2778,106.6,105.8
+87,"(2002) 
+Lauretana Biella",34,6950,2746,94,91.9
+88,"(1987) 
+Scavolini Pesaro",30,6050,2823,106.3,105.5
+89,"(1988) 
+Scavolini Pesaro",30,6000,2678,106.3,106.3
+90,"(2010) 
+Montepaschi Siena",30,6000,2514,106.3,106.3
+91,"(2001) 
+Mabo Prefabbricati Livorno",36,7250,2979,88.5,87.9
+92,"(2002) 
+Pippo Milano",34,6850,2743,93.7,93
+93,"(1987) 
+Banco Roma",30,6025,2776,106.1,105.7
+94,"(2003) 
+Oregon Scientific Cantu'",34,6825,2835,93.6,93.2
+95,"(1990) 
+Filanto Forli'",30,6025,2980,106,105.6
+96,"(1990) 
+Philips Milano",30,6025,2857,106,105.6
+97,"(2001) 
+Euro Roseto",36,7250,3018,88.2,87.6
+98,"(1995) 
+Cagiva Varese",32,6475,2807,99.1,98
+99,"(2006) 
+Armani Jeans Milano",34,6800,2663,93.2,93.2
+100,"(1995) 
+Teamsystem Bologna",32,6525,2723,99,97.1
+101,"(2000) 
+De Vizia Avellino",34,6850,2807,93.1,92.4
+102,"(2006) 
+VidiVici Bologna",34,6850,2779,93,92.4
+103,"(1994) 
+Filodoro Bologna",32,6475,2725,98.6,97.5
+104,"(2001) 
+Würth Roma",36,7225,2813,87.6,87.3
+105,"(1995) 
+Benetton Treviso",32,6425,2761,98.6,98.2
+106,"(2001) 
+Coop Nordest Trieste",36,7250,2861,87.6,87
+107,"(2005) 
+Lottomatica Roma",34,6900,2740,92.7,91.3
+108,"(1990) 
+A. Ranger Varese",30,6075,2802,105,103.7
+109,"(2003) 
+Snaidero Cucine Udine",34,6950,2850,92.6,90.6
+110,"(2006) 
+Snaidero Cucine Udine",34,6800,2753,92.6,92.6
+111,"(1993) 
+Buckler Bologna",30,6075,2651,105,103.7
+112,"(1988) 
+Philips Milano",30,6000,2760,105,105
+113,"(2004) 
+Lottomatica Roma",34,6850,2761,92.6,91.9
+114,"(2007) 
+Tisettanta Cantu'",34,6875,2708,92.5,91.5
+115,"(1990) 
+Benetton Treviso",30,6000,2742,104.9,104.9
+116,"(2006) 
+Angelico Biella",34,6850,2740,92.5,91.8
+117,"(1992) 
+Panasonic R.Calabria",30,6075,2688,104.2,102.9
+118,"(2005) 
+Bipop Carire R.Emilia",34,6975,2796,91.9,89.5
+119,"(2003) 
+Breil Milano",34,6800,2744,91.9,91.9
+120,"(1995) 
+Stefanel Milano",32,6475,2789,97.5,96.4
+121,"(2005) 
+Upea Capo d'Orlando",34,6900,2779,91.7,90.3
+122,"(1991) 
+Scavolini Pesaro",30,6000,2690,103.9,103.9
+123,"(1988) 
+Divarese Varese",30,6000,2614,103.9,103.9
+124,"(2004) 
+Lauretana Biella",34,6800,2747,91.6,91.6
+125,"(2003) 
+Sicilia Messina",34,6900,2768,91.5,90.2
+126,"(2007) 
+Armani Jeans Milano",34,6800,2708,91.4,91.4
+127,"(2003) 
+Air Avellino",34,6825,2834,91.4,91.1
+128,"(2006) 
+Benetton Treviso",34,6800,2582,91.4,91.4
+129,"(1991) 
+Robe di Kappa Torino",30,6075,2663,103.5,102.3
+130,"(2005) 
+Navigo.it Teramo",34,6800,2786,91.3,91.3
+131,"(1989) 
+Philips Milano",30,6000,2797,103.5,103.5
+132,"(2002) 
+Lottomatica Roma",34,6825,2670,91.3,90.9
+133,"(2006) 
+Legea Scafati",34,6850,2748,91.1,90.5
+134,"(2004) 
+Casti Group Varese",34,6825,2736,91.1,90.8
+135,"(1988) 
+Vismara Cantu'",30,5825,2745,103.3,106.4
+136,"(1989) 
+Il Messaggero Roma",30,6025,2802,103.3,102.8
+137,"(2006) 
+Whirlpool Varese",34,6900,2747,91.1,89.7
+138,"(1992) 
+Benetton Treviso",30,6075,2658,103.2,101.9
+139,"(2006) 
+Premiata Montegranaro",34,6825,2699,90.9,90.5
+140,"(1994) 
+Scavolini Pesaro",32,6500,2727,96.6,95.1
+141,"(2014) 
+EA7 Emporio Armani Milano",30,6000,2584,103,103
+142,"(2001) 
+Snaidero Udine",36,7225,2858,85.8,85.5
+143,"(2011) 
+Montepaschi Siena",32,6475,2639,96.4,95.3
+144,"(1992) 
+Philips Milano",30,6025,2752,102.8,102.4
+145,"(1987) 
+S. Benedetto Torino",30,6000,2711,102.7,102.7
+146,"(2006) 
+Air Avellino",34,6825,2648,90.5,90.2
+147,"(2007) 
+La Fortezza Bologna",34,6850,2684,90.5,89.8
+148,"(1988) 
+Arimo Bologna",30,6025,2636,102.5,102.1
+149,"(2004) 
+Navigo.it Teramo",34,6825,2758,90.4,90.1
+150,"(2002) 
+Pompea Napoli",34,6850,2735,90.4,89.7
+151,"(2001) 
+Fillattice Imola",36,7325,2856,85.3,83.8
+152,"(2002) 
+Virtus Bologna",34,6850,2659,90.3,89.6
+153,"(2004) 
+Sedima Roseto",34,6850,2692,90.2,89.6
+154,"(2002) 
+Viola Reggio Calabria",34,6850,2607,90.1,89.5
+155,"(2004) 
+Scavolini Pesaro",34,6800,2709,90,90
+156,"(2007) 
+Upim Bologna",34,6850,2669,90,89.3
+157,"(1992) 
+S. Clear Cantu'",30,6100,2572,102,100.3
+158,"(2007) 
+Lottomatica Roma",34,6675,2650,89.9,91.6
+159,"(2002) 
+Euro Roseto",34,6825,2682,89.9,89.6
+160,"(2002) 
+Metis Varese",34,6825,2695,89.8,89.5
+161,"(2004) 
+Sicc Cucine Jesi",34,6850,2751,89.6,89
+162,"(1989) 
+Arimo Bologna",30,6025,2716,101.4,100.9
+163,"(1993) 
+Scavolini Pesaro",30,6000,2625,101.4,101.4
+164,"(2004) 
+Bipop Carire RE",34,6875,2657,89.4,88.4
+165,"(1988) 
+Snaidero Caserta",30,6000,2803,101.3,101.3
+166,"(1989) 
+Knorr Bologna",30,6000,2664,101.3,101.3
+167,"(2010) 
+Air Avellino",30,6075,2468,101.2,100
+168,"(2008) 
+Lottomatica Roma",30,6125,2556,101.2,99.1
+169,"(2003) 
+Tris Reggio Calabria",34,6900,2733,89.2,87.9
+170,"(1989) 
+Vismara Cantu'",30,6000,2676,101,101
+171,"(2005) 
+Whirlpool Varese",34,6875,2620,89.1,88.1
+172,"(1994) 
+Stefanel Milano",32,6450,2766,94.7,94
+173,"(2007) 
+Scavolini Spar Pesaro",34,6825,2762,89.1,88.7
+174,"(1995) 
+Scavolini Pesaro",32,6475,2791,94.6,93.5
+175,"(2000) 
+Cordivari Roseto",34,6600,2789,89,91.7
+176,"(2007) 
+Angelico Biella",34,6875,2725,88.9,87.9
+177,"(2004) 
+Air Avellino",34,6800,2737,88.9,88.9
+178,"(2020) 
+Banco di Sardegna Sassari",28,5625,2527,107.9,107.4
+179,"(2018) 
+A|X Armani Exchange Milano",30,5875,2609,100.5,102.7
+180,"(2006) 
+Tisettanta Cantu'",34,6900,2679,88.6,87.3
+181,"(2005) 
+Vertical Vision Cantu'",34,6850,2699,88.6,87.9
+182,"(2003) 
+Lottomatica Roma",34,6925,2712,88.5,86.9
+183,"(2005) 
+Air Avellino",34,6800,2589,88.5,88.5
+184,"(2023) 
+Germani Brescia",30,6025,2618,100.3,99.9
+185,"(1989) 
+Phonola Caserta",30,6050,2789,100.2,99.4
+186,"(2007) 
+Eldo Napoli",34,6875,2672,88.4,87.4
+187,"(1993) 
+Recoaro Milano",30,6075,2740,100.2,99
+188,"(1990) 
+S. Clear Cantu'",30,6050,2663,100.2,99.4
+189,"(2018) 
+Banco di Sardegna Sassari",30,5875,2593,100.2,102.3
+190,"(2002) 
+Air Avellino",34,6900,2728,88.4,87.1
+191,"(1991) 
+S. Clear Cantu'",30,6025,2527,100.2,99.8
+192,"(1995) 
+Nuova Tirrena Roma",32,6450,2711,93.9,93.1
+193,"(1990) 
+Libertas Livorno",30,6025,2718,100.1,99.7
+194,"(1988) 
+Ipifim Torino",30,6025,2706,100.1,99.7
+195,"(2006) 
+Lottomatica Roma",34,6925,2556,88.2,86.6
+196,"(1990) 
+Panasonic R.Calabria",30,6050,2660,99.8,99
+197,"(2008) 
+Banca Tercas Teramo",30,6100,2491,99.6,98
+198,"(2004) 
+Villaggio Solidago Livorno",34,6825,2815,87.9,87.6
+199,"(1993) 
+Filodoro Bologna",30,6050,2506,99.6,98.7
+200,"(1991) 
+Fernet Branca Pavia",30,6100,2752,99.5,97.9
+201,"(1989) 
+Viola Reggio Calabria",30,6050,2582,99.5,98.7
+202,"(2006) 
+TDShop.it Livorno",34,6850,2681,87.8,87.2
+203,"(1994) 
+Madigan Pistoia",32,6425,2670,93.3,92.9
+204,"(2012) 
+Banco di Sardegna Sassari",30,6050,2677,99.5,98.7
+205,"(1993) 
+Stefanel Trieste",30,6075,2584,99.5,98.2
+206,"(2000) 
+Snaidero Udine",34,6850,2829,87.6,87
+207,"(2000) 
+Adecco Milano",34,6875,2870,87.6,86.6
+208,"(1989) 
+Cantine Riunite R.Emilia",30,6025,2668,99.2,98.8
+209,"(2016) 
+EA7 Emporio Armani Milano",30,6000,2584,99,99
+210,"(2002) 
+Snaidero Udine",34,6850,2656,87.4,86.7
+211,"(2017) 
+Sidigas Avellino",30,6175,2492,99,96.2
+212,"(1991) 
+Glaxo Verona",30,6050,2617,99,98.1
+213,"(2004) 
+Snaidero Cucine Udine",34,6825,2675,87.3,87
+214,"(1991) 
+A. Ranger Varese",30,6050,2675,98.9,98.1
+215,"(1990) 
+Phonola Caserta",30,6050,2689,98.9,98.1
+216,"(1991) 
+Knorr Bologna",30,5875,2561,98.9,101
+217,"(2003) 
+Mabo Livorno",34,6850,2765,87.1,86.5
+218,"(2007) 
+Benetton Treviso",34,6825,2607,87,86.7
+219,"(2000) 
+Telit Trieste",34,6625,2683,87,89.3
+220,"(1992) 
+Knorr Bologna",30,6050,2575,98.5,97.7
+221,"(1999) 
+Paf Bologna",30,6000,2379,98.5,98.5
+222,"(1987) 
+Dietor Bologna",30,6075,2695,98.4,97.2
+223,"(2013) 
+Banco di Sardegna Sassari",30,6000,2589,98.4,98.4
+224,"(2021) 
+A|X Armani Exchange Milano",30,6050,2465,98.3,97.5
+225,"(2021) 
+A|X Armani Exchange Milano",30,6050,2465,98.3,97.5
+226,"(2006) 
+Eldo Napoli",34,6875,2648,86.7,85.8
+227,"(2022) 
+Virtus Segafredo Bologna",30,6025,2542,98.2,97.8
+228,"(2022) 
+Virtus Segafredo Bologna",30,6025,2542,98.2,97.8
+229,"(2002) 
+Acegas Trieste",34,6875,2680,86.5,85.6
+230,"(2020) 
+Virtus Segafredo Bologna",28,5600,2397,105.1,105.1
+231,"(2002) 
+Scavolini Pesaro",34,6850,2736,86.4,85.7
+232,"(1995) 
+Madigan Pistoia",32,6425,2648,91.6,91.2
+233,"(2017) 
+Red October Cantù",30,6050,2619,97.7,96.9
+234,"(2007) 
+Snaidero Cucine Udine",34,6825,2591,86.2,85.9
+235,"(2018) 
+Alma Trieste",30,6050,2634,97.6,96.8
+236,"(1992) 
+Virtus Roma",30,6000,2695,97.6,97.6
+237,"(1987) 
+Allibert Livorno",30,6050,2576,97.5,96.7
+238,"(1987) 
+Wuber Napoli",30,6100,2634,97.5,95.9
+239,"(2022) 
+Openjobmetis Varese",30,6050,2726,97.5,96.7
+240,"(2022) 
+Openjobmetis Varese",30,6050,2726,97.5,96.7
+241,"(2007) 
+Cimberio Varese",34,6975,2656,85.9,83.7
+242,"(2004) 
+Eurofiditalia R.Calabria",34,6875,2720,85.8,84.8
+243,"(2018) 
+Sidigas Avellino",30,6025,2470,97.2,96.8
+244,"(1993) 
+Burghy Roma",30,6025,2666,96.9,96.5
+245,"(1987) 
+Neutroroberts Firenze",30,6075,2689,96.8,95.6
+246,"(1989) 
+Paini Napoli",30,6000,2656,96.8,96.8
+247,"(1989) 
+Benetton Treviso",30,6050,2584,96.8,96
+248,"(2010) 
+Dinamo Sassari",30,6075,2463,96.8,95.6
+249,"(2000) 
+Poliform Cantu'",34,6900,2676,85.2,84
+250,"(1993) 
+Kleenex Pistoia",30,6050,2588,96.5,95.7
+251,"(1988) 
+Knorr Bologna",30,6000,2623,96.4,96.4
+252,"(1993) 
+Onyx Caserta",30,6000,2678,96.4,96.4
+253,"(1995) 
+Mash J. Verona",32,6525,2647,90.3,88.6
+254,"(2022) 
+EA7 Emporio Armani Milano",30,6025,2481,96.4,96
+255,"(2022) 
+EA7 Emporio Armani Milano",30,6025,2481,96.4,96
+256,"(2017) 
+Banco di Sardegna Sassari",30,6100,2586,96.2,94.6
+257,"(2020) 
+A|X Armani Exchange Milano",28,5600,2385,103,103
+258,"(2020) 
+A|X Armani Exchange Milano",28,5600,2385,103,103
+259,"(2007) 
+Solsonica Rieti",34,6875,2689,84.8,83.9
+260,"(1990) 
+Il Messaggero Roma",30,6020,2731,96.1,95.8
+261,"(1993) 
+Glaxo Verona",30,6075,2539,96.1,94.9
+262,"(2002) 
+Mabo Prefabbricati Livorno",34,6800,2637,84.6,84.6
+263,"(1992) 
+Kleenex Pistoia",30,6050,2521,95.8,95
+264,"(2010) 
+Bennet Cantù",30,6000,2311,95.8,95.8
+265,"(2012) 
+Cimberio Varese",30,6050,2519,95.7,94.9
+266,"(1990) 
+Stefanel Trieste",30,6050,2609,95.7,94.9
+267,"(2008) 
+Angelico Biella",30,6050,2514,95.6,94.8
+268,"(2011) 
+EA7 Armani Milano",32,6400,2532,89.6,89.6
+269,"(2018) 
+Happy Casa Brindisi",30,6075,2454,95.6,94.4
+270,"(2020) 
+Happy Casa Brindisi",28,5600,2395,102.4,102.4
+271,"(2006) 
+Upea Capo d'Orlando",34,6825,2524,84.3,84
+272,"(1989) 
+Neutroroberts Firenze",30,6150,2648,95.4,93
+273,"(1993) 
+Bialetti Montecatini",30,6075,2472,95.3,94.1
+274,"(2006) 
+Bipop Carire R.Emilia",34,6800,2560,84.1,84.1
+275,"(1994) 
+Comerson Siena",32,6400,2417,89.3,89.3
+276,"(1990) 
+Knorr Bologna",30,6019,2574,95.2,94.9
+277,"(1988) 
+Benetton Treviso",30,6025,2467,95.1,94.7
+278,"(1994) 
+Illycaffe' Trieste",32,6425,2663,89.1,88.7
+279,"(2022) 
+Umana Reyer Venezia",30,6075,2510,95,93.9
+280,"(2022) 
+Umana Reyer Venezia",30,6075,2510,95,93.9
+281,"(2023) 
+Umana Reyer Venezia",30,6025,2488,95,94.6
+282,"(2014) 
+Banco di Sardegna Sassari",30,6075,2549,94.9,93.8
+283,"(2011) 
+Banco di Sardegna Sassari",32,6400,2581,88.9,88.9
+284,"(1994) 
+Birex Verona",32,6450,2592,88.7,88
+285,"(2005) 
+BT Roseto",34,6800,2464,83.4,83.4
+286,"(1992) 
+Scavolini Pesaro",30,6000,2557,94.4,94.4
+287,"(2017) 
+EA7 Emporio Armani Milano",30,6075,2463,94.4,93.2
+288,"(1995) 
+Olitalia Forli'",32,6475,2614,88.3,87.3
+289,"(2018) 
+Umana Reyer Venezia",30,6075,2440,94.2,93
+290,"(2022) 
+Banco di Sardegna Sassari",30,6025,2530,93.9,93.5
+291,"(2022) 
+Banco di Sardegna Sassari",30,6025,2530,93.9,93.5
+292,"(1999) 
+Benetton Treviso",30,6025,2343,93.9,93.5
+293,"(1993) 
+Pfizer R.Calabria",30,6050,2547,93.8,93
+294,"(1988) 
+Paini Napoli",30,5800,2516,93.8,97
+295,"(2021) 
+Banco di Sardegna Sassari",30,6075,2541,93.7,92.5
+296,"(2021) 
+Banco di Sardegna Sassari",30,6075,2541,93.7,92.5
+297,"(1992) 
+Phonola Caserta",30,6075,2541,93.7,92.5
+298,"(1987) 
+Benetton Treviso",30,6050,2485,93.6,92.9
+299,"(2015) 
+Banco di Sardegna Sassari",30,6125,2509,93.6,91.7
+300,"(2010) 
+Armani Jeans Milano",30,6075,2409,93.5,92.3
+301,"(2007) 
+Legea Scafati",34,6600,2587,82.4,84.9
+302,"(1992) 
+Robe di Kappa Torino",30,6125,2594,93.4,91.5
+303,"(2018) 
+Acqua S.Bernardo Cantù",30,6050,2526,93.3,92.5
+304,"(2018) 
+Fiat Torino",30,6125,2492,93,91.1
+305,"(2023) 
+EA7 Emporio Armani Milano",30,6000,2412,93,93
+306,"(2017) 
+Umana Reyer Venezia",30,6075,2481,93,91.8
+307,"(2010) 
+Vanoli-Braga Cremona",30,6125,2384,92.9,91
+308,"(2021) 
+Germani Brescia",30,6000,2524,92.9,92.9
+309,"(2021) 
+Germani Brescia",30,6000,2524,92.9,92.9
+310,"(2014) 
+Umana Reyer Venezia",30,6025,2400,92.7,92.3
+311,"(1994) 
+Pfizer R.Calabria",32,6425,2629,86.9,86.5
+312,"(2015) 
+EA7 Emporio Armani Milano",30,6025,2452,92.5,92.1
+313,"(2008) 
+Benetton Treviso",30,6075,2320,92.4,91.3
+314,"(1988) 
+Hitachi Venezia",30,6000,2482,92.3,92.3
+315,"(1988) 
+Cantine Riunite R.Emilia",30,5825,2502,92.3,95.1
+316,"(2017) 
+Fiat Torino",30,6025,2432,92.2,91.8
+317,"(1994) 
+Panapesca Montecatini",32,6450,2649,86.4,85.7
+318,"(2010) 
+Lottomatica Roma",30,6000,2323,92.1,92.1
+319,"(1990) 
+Filodoro Napoli",30,6100,2581,92,90.5
+320,"(2017) 
+Germani Basket Brescia",30,6075,2397,92,90.8
+321,"(2011) 
+Sidigas Avellino",32,6475,2480,86.2,85.2
+322,"(1993) 
+Benetton Treviso",30,6100,2480,91.7,90.2
+323,"(2023) 
+Openjobmetis Varese",30,6000,2618,91.7,91.7
+324,"(1992) 
+Bialetti Montecatini",30,6075,2485,91.6,90.5
+325,"(2015) 
+Sidigas Avellino",30,6050,2389,91.6,90.8
+326,"(1989) 
+Panapesca Montecatini",30,6025,2521,91.6,91.2
+327,"(2016) 
+Sidigas Avellino",30,6075,2392,91.6,90.4
+328,"(2008) 
+La Fortezza Bologna",30,6075,2350,91.5,90.4
+329,"(1993) 
+C. Campeginese R.Emilia",30,6075,2582,91.5,90.3
+330,"(1990) 
+Pall. Firenze",30,6000,2652,91.4,91.4
+331,"(1995) 
+Cx Orologi Siena",32,6425,2452,85.7,85.4
+332,"(2014) 
+Grissin Bon Reggio Emilia",30,6075,2317,91.4,90.3
+333,"(2017) 
+Vanoli Cremona",30,6000,2554,91.4,91.4
+334,"(2013) 
+EA7 Emporio Armani Milano",30,6025,2452,91.4,91
+335,"(2023) 
+Generazione Vincente Napoli Basket",30,6029,2587,91.3,90.9
+336,"(2018) 
+Vanoli Cremona",30,5850,2484,91.3,93.6
+337,"(2010) 
+Canadian Solar Bologna",30,6100,2345,91.2,89.7
+338,"(2011) 
+Canadian Solar Bologna",32,6450,2414,85.5,84.8
+339,"(2008) 
+Scavolini Spar Pesaro",30,6075,2456,91,89.8
+340,"(2013) 
+Acqua Vitasnella Cantù",30,6050,2432,90.8,90
+341,"(2015) 
+Grissin Bon Reggio Emilia",30,6050,2424,90.7,90
+342,"(1992) 
+Marr Rimini",30,6100,2489,90.6,89.1
+343,"(1994) 
+Teorematour Roma",32,6425,2572,84.8,84.5
+344,"(2010) 
+Cimberio Varese",30,6050,2385,90.5,89.8
+345,"(2008) 
+Carife Ferrara",30,6050,2359,90.4,89.7
+346,"(1988) 
+Alno Fabriano",30,6000,2648,90.4,90.4
+347,"(2011) 
+Scavolini Siviglia Pesaro",32,6450,2419,84.6,83.9
+348,"(1993) 
+S. Clear Cantu'",30,6050,2465,90.2,89.5
+349,"(2023) 
+Dolomiti Energia Trentino",30,6025,2498,90.1,89.8
+350,"(1999) 
+Scavolini Pesaro",30,6100,2324,90,88.5
+351,"(1988) 
+Allibert Livorno",30,5825,2512,90,92.7
+352,"(2011) 
+Fabi Shoes Montegranaro",32,6425,2482,84.3,84
+353,"(2021) 
+UNAHOTELS Reggio Emilia",30,6150,2409,89.9,87.7
+354,"(2002) 
+Carifac Fabriano",34,6925,2460,79.3,77.9
+355,"(2022) 
+Bertram Yachts Derthona Tortona",30,6025,2407,89.9,89.5
+356,"(2022) 
+Bertram Yachts Derthona Tortona",30,6025,2407,89.9,89.5
+357,"(1991) 
+Filanto Forli'",30,5825,2537,89.8,92.5
+358,"(1991) 
+Stefanel Trieste",30,6025,2414,89.8,89.4
+359,"(2010) 
+Pepsi Caserta",30,6075,2395,89.7,88.6
+360,"(1991) 
+Pall. Trapani",30,6125,2447,89.6,87.8
+361,"(2016) 
+Grissin Bon Reggio Emilia",30,6050,2458,89.6,88.8
+362,"(2010) 
+Benetton Treviso",30,6025,2311,89.5,89.1
+363,"(2010) 
+Fabi Shoes Montegranaro",30,6050,2314,89.4,88.7
+364,"(1988) 
+Phonola Roma",30,6000,2479,89.3,89.3
+365,"(1996) 
+Kinder Bologna",26,5250,2282,103.1,102.1
+366,"(1990) 
+Sidis R.Emilia",30,6125,2473,89.3,87.5
+367,"(2020) 
+Vanoli Basket Cremona",28,5700,2370,95.6,93.9
+368,"(2023) 
+Givova Scafati Basket",30,6100,2481,89,87.6
+369,"(2017) 
+Dolomiti Energia Trentino",30,6000,2423,89,89
+370,"(2012) 
+EA7 Emporio Armani Milano",30,6075,2441,88.9,87.8
+371,"(1999) 
+Lineltex Imola",30,6025,2487,88.8,88.5
+372,"(2021) 
+Allianz Pallacanestro Trieste",30,6098,2390,88.6,87.2
+373,"(2021) 
+Allianz Pallacanestro Trieste",30,6098,2390,88.6,87.2
+374,"(2021) 
+Fortitudo Kigili Bologna",30,6027,2429,88.5,88.1
+375,"(1999) 
+Kinder Bologna",30,6000,2275,88.5,88.5
+376,"(1987) 
+Irge Desio",30,6050,2568,88.5,87.7
+377,"(2008) 
+NGC Cantu'",30,6025,2358,88.4,88
+378,"(2005) 
+Viola R.Calabria",34,6875,2549,78,77.1
+379,"(2011) 
+Acea Roma",32,6525,2519,82.8,81.3
+380,"(1992) 
+Teamsystem Fabriano",30,6100,2419,88.4,86.9
+381,"(2018) 
+Germani Basket Brescia",30,6050,2408,88.2,87.5
+382,"(2021) 
+Bertram Derthona Basket Tortona",30,6050,2418,88.2,87.5
+383,"(2021) 
+Bertram Derthona Basket Tortona",30,6050,2418,88.2,87.5
+384,"(2014) 
+Acqua Vitasnella Cantù",30,6100,2389,88,86.6
+385,"(1995) 
+Viola Reggio Calabria",32,6450,2488,82.4,81.8
+386,"(2022) 
+Carpegna Prosciutto Pesaro",30,6050,2531,87.9,87.2
+387,"(2022) 
+Carpegna Prosciutto Pesaro",30,6050,2531,87.9,87.2
+388,"(2022) 
+Happy Casa Brindisi",30,6025,2494,87.9,87.6
+389,"(2016) 
+Fiat Torino",30,6075,2455,87.9,86.8
+390,"(1991) 
+Phonola Caserta",30,6000,2447,87.9,87.9
+391,"(2014) 
+Dolomiti Energia Trento",30,6075,2440,87.8,86.7
+392,"(1989) 
+Irge Desio",30,6075,2656,87.7,86.6
+393,"(2018) 
+Openjobmetis Varese",30,6000,2385,87.6,87.6
+394,"(2016) 
+Enel Brindisi",30,6100,2495,87.5,86.1
+395,"(2012) 
+Enel Brindisi",30,6025,2441,87.5,87.1
+396,"(2009) 
+Benetton Treviso",28,5625,2230,93.7,93.3
+397,"(1995) 
+Illycaffe' Trieste",32,6425,2557,81.9,81.6
+398,"(2021) 
+Umana Reyer Venezia",30,6025,2331,87.3,86.9
+399,"(1999) 
+Varese Roosters",30,6025,2270,87.3,86.9
+400,"(2017) 
+Openjobmetis Varese",30,6050,2355,87.1,86.4
+401,"(2011) 
+Bennet Cantù",32,6425,2383,81.6,81.3
+402,"(1992) 
+Stefanel Trieste",30,6000,2417,87.1,87.1
+403,"(2010) 
+Angelico Biella",30,6050,2393,87,86.3
+404,"(2023) 
+Estra Pistoia",30,6025,2432,86.9,86.5
+405,"(2023) 
+Bertram Derthona Tortona",30,6025,2411,86.8,86.4
+406,"(2015) 
+Acqua Vitasnella Cantù",30,6100,2422,86.7,85.3
+407,"(2023) 
+Banco di Sardegna Sassari",30,6025,2394,86.7,86.3
+408,"(2021) 
+GeVi Napoli Basket",30,6075,2393,86.7,85.6
+409,"(2016) 
+Germani Basket Brescia",30,6025,2360,86.7,86.3
+410,"(2016) 
+Vanoli Cremona",30,6025,2370,86.5,86.1
+411,"(1997) 
+Teamsystem Bologna",26,5225,2172,99.8,99.3
+412,"(2022) 
+Germani Brescia",30,6100,2474,86.4,85
+413,"(2022) 
+Germani Brescia",30,6100,2474,86.4,85
+414,"(2008) 
+GMAC Bologna",30,6125,2251,86.4,84.6
+415,"(1999) 
+Zucchetti Montecatini",30,6000,2260,86.4,86.4
+416,"(2011) 
+Umana Venezia",32,6450,2475,80.8,80.2
+417,"(2010) 
+Banca Tercas Teramo",30,6075,2253,86.2,85.2
+418,"(2011) 
+Cimberio Varese",32,6475,2429,80.7,79.8
+419,"(2011) 
+Otto Caserta",32,6425,2479,80.6,80.3
+420,"(2008) 
+Snaidero Cucine Udine",30,6025,2329,85.9,85.6
+421,"(2022) 
+NutriBullet Treviso Basket",30,6000,2433,85.9,85.9
+422,"(2016) 
+Umana Reyer Venezia",30,6125,2447,85.8,84.1
+423,"(2016) 
+Dolomiti Energia Trentino",30,6050,2352,85.8,85.1
+424,"(1994) 
+Meta System R.Emilia",32,6450,2569,80.3,79.7
+425,"(2008) 
+Air Avellino",30,6075,2307,85.6,84.6
+426,"(2003) 
+Coop Nordest Trieste",34,6625,2518,75.5,77.5
+427,"(1992) 
+Scaini Venezia",30,6100,2314,85.6,84.2
+428,"(2012) 
+Acea Roma",30,6050,2361,85.6,84.9
+429,"(1992) 
+Baker Livorno",30,6000,2444,85.4,85.4
+430,"(2020) 
+Fortitudo Lavoropiù Bologna",28,5600,2179,91.4,91.4
+431,"(2020) 
+Germani Brescia",28,5650,2299,91.3,90.4
+432,"(2016) 
+Banco di Sardegna Sassari",30,6000,2301,85.1,85.1
+433,"(2009) 
+Banca Tercas Teramo",28,5600,2151,91.2,91.2
+434,"(2018) 
+Dolomiti Energia Trentino",30,6100,2383,85.1,83.7
+435,"(2021) 
+Happy Casa Brindisi",30,6075,2440,85.1,84
+436,"(2021) 
+Happy Casa Brindisi",30,6075,2440,85.1,84
+437,"(2008) 
+Armani Jeans Milano",30,6075,2316,84.9,83.9
+438,"(2023) 
+NutriBullet Treviso Basket",30,6000,2434,84.9,84.9
+439,"(1998) 
+Benetton Treviso",26,5250,2108,98,97.1
+440,"(2013) 
+Acea Roma",30,6050,2357,84.9,84.2
+441,"(2013) 
+Grissin Bon Reggio Emilia",30,6000,2341,84.9,84.9
+442,"(2020) 
+De'Longhi Treviso",28,5600,2353,91,91
+443,"(2020) 
+Allianz Pallacanestro Trieste",28,5600,2253,90.9,90.9
+444,"(2009) 
+NGC Medical Cantu'",28,5625,2137,90.8,90.4
+445,"(2013) 
+Sidigas Avellino",30,6050,2291,84.7,84
+446,"(2022) 
+Givova Scafati",30,6050,2378,84.6,83.9
+447,"(2009) 
+Pepsi Caserta",28,5675,2247,90.6,89.4
+448,"(2017) 
+Segafredo Virtus Bologna",30,6025,2353,84.5,84.1
+449,"(2009) 
+Vanoli Cremona",28,5675,2229,90.4,89.2
+450,"(1993) 
+Acqua Lora Venezia",30,6050,2370,84.4,83.7
+451,"(1995) 
+Teorematour Milano",32,6400,2458,79,79
+452,"(2013) 
+Umana Venezia",30,6000,2394,84.2,84.2
+453,"(2016) 
+MIA-Red October Cantù",30,6025,2335,84.2,83.9
+454,"(1991) 
+Baker Livorno",30,6000,2390,84.2,84.2
+455,"(2021) 
+Vanoli Basket Cremona",30,6075,2386,84.2,83.1
+456,"(2018) 
+Segafredo Virtus Bologna",30,6000,2387,84.1,84.1
+457,"(2021) 
+Carpegna Prosciutto Pesaro",30,6075,2408,84,83
+458,"(1999) 
+Telit Trieste",30,6025,2220,84,83.7
+459,"(2022) 
+UNAHOTELS Reggio Emilia",30,6075,2287,84,82.9
+460,"(2022) 
+GeVi Napoli Basket",30,6075,2379,83.9,82.9
+461,"(2009) 
+Scavolini Spar Pesaro",28,5675,2244,89.9,88.7
+462,"(2023) 
+UNAHOTELS Reggio Emilia",30,6000,2403,83.9,83.9
+463,"(2015) 
+Dolomiti Energia Trentino",30,6025,2292,83.8,83.5
+464,"(2023) 
+Carpegna Prosciutto Pesaro",30,6050,2417,83.8,83.1
+465,"(2021) 
+Openjobmetis Varese",30,6025,2470,83.8,83.5
+466,"(2011) 
+Angelico Biella",32,6500,2454,78.5,77.3
+467,"(1996) 
+Benetton Treviso",26,5225,2195,96.6,96.2
+468,"(2013) 
+Montepaschi Siena",30,6025,2308,83.6,83.3
+469,"(1999) 
+Adr Roma",30,6050,2204,83.6,82.9
+470,"(2017) 
+Grissin Bon Reggio Emilia",30,6000,2322,83.6,83.6
+471,"(1991) 
+Ticino Assicurazioni Siena",30,6000,2335,83.5,83.5
+472,"(2008) 
+Solsonica Rieti",30,6050,2187,83.5,82.8
+473,"(1997) 
+Kinder Bologna",26,5225,2070,96.3,95.8
+474,"(2015) 
+Umana Reyer Venezia",30,6150,2320,83.4,81.4
+475,"(1996) 
+Telemarket Roma",26,5275,2176,96.2,94.9
+476,"(2012) 
+Lenovo Cantù",30,5825,2222,83.4,85.9
+477,"(2020) 
+Umana Reyer Venezia",28,5625,2257,89.3,88.9
+478,"(2012) 
+Montepaschi Siena",30,6000,2309,83.3,83.3
+479,"(1998) 
+Pall. Varese",26,5025,2133,96.2,99.5
+480,"(2012) 
+Sutor Montegranaro",30,6050,2489,83.2,82.5
+481,"(2018) 
+Grissin Bon Reggio Emilia",30,6000,2363,83.2,83.2
+482,"(2009) 
+Armani Jeans Milano",28,5700,2103,89.1,87.6
+483,"(2023) 
+Vanoli Basket Cremona",30,6050,2406,83.1,82.4
+484,"(2012) 
+Sidigas Avellino",30,5875,2274,83.1,84.8
+485,"(2011) 
+Banca Tercas Teramo",32,6425,2373,77.8,77.5
+486,"(2009) 
+Air Avellino",28,5675,2125,88.9,87.7
+487,"(2008) 
+Premiata Montegranaro",30,6125,2294,82.8,81.1
+488,"(2009) 
+Lottomatica Roma",28,5625,2149,88.6,88.2
+489,"(2010) 
+Scavolini Siviglia Pesaro",30,6025,2186,82.6,82.3
+490,"(2009) 
+Cimberio Varese",28,5625,2133,88.5,88.1
+491,"(2022) 
+Pallacanestro Trieste",30,6075,2345,82.6,81.5
+492,"(2016) 
+Betaland Capo d'Orlando",30,6050,2291,82.5,81.8
+493,"(2011) 
+Benetton Treviso",32,6450,2403,77.3,76.7
+494,"(1996) 
+Teamsystem Bologna",26,5225,2067,95,94.6
+495,"(2014) 
+Openjobmetis Varese",30,6150,2418,82.3,80.3
+496,"(2016) 
+Pasta Reggia Caserta",30,6075,2337,82.3,81.3
+497,"(2012) 
+Vanoli Cremona",30,6025,2397,82.2,81.9
+498,"(2016) 
+The Flexx Pistoia",30,6075,2306,82.2,81.2
+499,"(1996) 
+Scavolini Pesaro",26,5275,2223,94.8,93.5
+500,"(2021) 
+NutriBullet Treviso Basket",30,6075,2366,82.1,81.1
+501,"(2009) 
+Canadian Solar BO",28,5625,2074,88,87.6
+502,"(2017) 
+Happy Casa Brindisi",30,6075,2317,82,81
+503,"(2014) 
+Giorgio Tesi Group Pistoia",30,6050,2307,82,81.3
+504,"(2015) 
+Giorgio Tesi Group Pistoia",30,6050,2311,81.9,81.3
+505,"(2014) 
+Sidigas Avellino",30,6000,2283,81.9,81.9
+506,"(1999) 
+Viola Reggio Calabria",30,6000,2251,81.8,81.8
+507,"(1998) 
+Teamsystem Bologna",26,5200,2023,94.3,94.3
+508,"(2017) 
+VL Pesaro",30,6050,2310,81.7,81
+509,"(2015) 
+Openjobmetis Varese",30,6025,2252,81.7,81.3
+510,"(2016) 
+Openjobmetis Varese",30,6050,2319,81.5,80.8
+511,"(2012) 
+Umana Venezia",30,6075,2370,81.5,80.5
+512,"(2020) 
+Openjobmetis Varese",28,5675,2271,87.3,86.1
+513,"(2022) 
+Dolomiti Energia Trentino",30,6050,2288,81.4,80.7
+514,"(2022) 
+Dolomiti Energia Trentino",30,6050,2288,81.4,80.7
+515,"(2020) 
+Acqua S.Bernardo Cantù",28,5625,2179,87.2,86.8
+516,"(2012) 
+Trenkwalder Reggio Emilia",30,6000,2328,81.3,81.3
+517,"(2009) 
+Angelico Biella",28,5650,2132,86.9,86.1
+518,"(1998) 
+Kinder Bologna",26,5225,1983,93.6,93.1
+519,"(1999) 
+Pepsi Rimini",30,6025,2145,81,80.7
+520,"(2013) 
+Pasta Reggia Caserta",30,6025,2189,81,80.6
+521,"(2013) 
+Cimberio Varese",30,6025,2389,80.9,80.6
+522,"(2014) 
+Granarolo Bologna",30,6000,2331,80.9,80.9
+523,"(2015) 
+Enel Brindisi",30,6125,2320,80.7,79.1
+524,"(2013) 
+Granarolo Bologna",30,6050,2335,80.7,80.1
+525,"(2009) 
+Sigma Coatings Montegranaro",28,5650,2194,86.5,85.7
+526,"(1996) 
+Cagiva Varese",26,5250,2180,93.1,92.2
+527,"(2014) 
+Vanoli Cremona",30,6075,2308,80.6,79.6
+528,"(2016) 
+VL Pallacanestro Pesaro",30,6050,2285,80.6,79.9
+529,"(2008) 
+Eldo Caserta",30,6050,2236,80.6,79.9
+530,"(1999) 
+Müller Verona",30,6000,2212,80.5,80.5
+531,"(1997) 
+Pall. Varese",26,5200,2103,92.8,92.8
+532,"(2020) 
+Carpegna Prosciutto Pesaro",28,5625,2271,85.9,85.5
+533,"(2010) 
+Enel Brindisi",30,6050,2194,80.1,79.5
+534,"(2014) 
+Enel Brindisi",30,6025,2280,79.9,79.6
+535,"(1999) 
+Ducato Siena",30,6075,2089,79.9,78.9
+536,"(2013) 
+Enel Brindisi",30,6025,2286,79.8,79.5
+537,"(2013) 
+Sutor Montegranaro",30,6025,2328,79.5,79.1
+538,"(2013) 
+Giorgio Tesi Group Pistoia",30,6100,2296,79.4,78.1
+539,"(2014) 
+Pasta Reggia Caserta",30,6025,2253,79.4,79.1
+540,"(2011) 
+Novipiù Casale Monferrato",32,6525,2353,74.3,72.9
+541,"(2020) 
+Dolomiti Energia Trentino",28,5650,2191,84.9,84.2
+542,"(2021) 
+Dolomiti Energia Trentino",30,6102,2345,79.1,77.8
+543,"(1996) 
+Stefanel Milano",26,5200,2101,91.3,91.3
+544,"(2018) 
+VL Pesaro",30,6025,2382,78.9,78.6
+545,"(2009) 
+Carife Ferrara",28,5675,2074,84.4,83.3
+546,"(1999) 
+Bipop-Carire R.Emilia",30,6000,2259,78.7,78.7
+547,"(2015) 
+Consultinvest Pesaro",30,6025,2282,78.6,78.3
+548,"(1997) 
+Benetton Treviso",26,5200,2000,90.7,90.7
+549,"(2013) 
+Victoria Libertas Pesaro",30,6125,2360,78.3,76.7
+550,"(1993) 
+Baker Livorno",30,6025,2412,78.2,77.9
+551,"(1996) 
+Genertel Trieste",26,5250,2207,90.2,89.4
+552,"(2015) 
+Vanoli Cremona",30,6125,2258,78,76.4
+553,"(2020) 
+UNAHOTELS Reggio Emilia",28,5625,2122,83.2,82.8
+554,"(2013) 
+Vanoli Cremona",30,6025,2285,77.4,77
+555,"(2022) 
+Tezenis Verona",30,6075,2353,77.2,76.3
+556,"(1996) 
+Fontanafredda Siena",26,5225,2021,89.1,88.7
+557,"(1996) 
+Viola Reggio Calabria",26,5250,2093,89.1,88.2
+558,"(2012) 
+Scavolini Banca Marche Pesaro",30,6000,2245,77,77
+559,"(1997) 
+Stefanel Milano",26,5200,2030,88.8,88.8
+560,"(2015) 
+Manital Torino",30,6075,2261,76.7,75.8
+561,"(2012) 
+Oknoplast Bologna",30,6025,2249,76.7,76.4
+562,"(1996) 
+Mash J. Verona",26,5350,2089,88.3,85.8
+563,"(2011) 
+Vanoli Braga Cremona",32,6425,2349,71.7,71.4
+564,"(2018) 
+Oriora Pistoia",30,5825,2233,76.5,78.8
+565,"(1996) 
+Polti Cantu'",26,5250,2001,88.2,87.4
+566,"(2017) 
+The Flexx Pistoia",30,6025,2267,76.4,76.1
+567,"(2017) 
+Betaland Capo d'Orlando",30,6050,2153,75.2,74.5
+568,"(1997) 
+Mash J. Verona",26,5225,2070,86.7,86.3
+569,"(2023) 
+Happy Casa Brindisi",30,6025,2275,75.1,74.8
+570,"(2012) 
+Juve Caserta",30,6100,2164,74.8,73.6
+571,"(2019) 
+Banco di Sardegna Sassari",21,4200,1796,106.8,106.8
+572,"(1998) 
+Ducato Siena",26,5250,1997,86,85.2
+573,"(2015) 
+Pasta Reggia Caserta",30,6050,2171,74.5,73.9
+574,"(2015) 
+Obiettivo Lavoro Bologna",30,6125,2239,74,72.5
+575,"(1998) 
+Zucchetti R.Emilia",26,5300,2037,85.3,83.7
+576,"(1999) 
+Canturina Cantù",30,6075,2155,73.7,72.8
+577,"(1998) 
+Calze Pompea Roma",26,5300,1927,84.6,83
+578,"(1998) 
+Termal Imola",26,5200,2053,84.6,84.6
+579,"(2014) 
+Upea Capo d'Orlando",30,6000,2094,73.3,73.3
+580,"(1997) 
+Calze Pompea Roma",26,5250,1939,84.4,83.6
+581,"(1997) 
+Fontanafredda Siena",26,5225,1928,84.2,83.8
+582,"(2015) 
+Betaland Capo d'Orlando",30,6025,2058,72.6,72.3
+583,"(1998) 
+Sony Milano",26,5200,1952,83.4,83.4
+584,"(1999) 
+Adecco Milano",30,6075,2117,72.2,71.3
+585,"(2014) 
+Acea Roma",30,6025,2143,72.1,71.8
+586,"(1996) 
+Rolly Pistoia",26,5225,2057,83.2,82.8
+587,"(1997) 
+Cfm R.Emilia",26,5250,1990,82.9,82.1
+588,"(2019) 
+Segafredo Virtus Bologna",20,4025,1719,107.8,107.1
+589,"(1997) 
+Mabo Pistoia",26,5225,1982,82.4,82
+590,"(1997) 
+Scavolini Pesaro",26,5225,2017,82.1,81.7
+591,"(1997) 
+Polti Cantu'",26,5250,1920,81.9,81.1
+592,"(2019) 
+Happy Casa Brindisi",21,4250,1776,99.4,98.2
+593,"(2019) 
+Germani Basket Brescia",21,4200,1707,99.4,99.4
+594,"(1998) 
+Müller Verona",26,5300,1969,79.9,78.4
+595,"(2014) 
+Consultinvest Pesaro",30,6000,2169,69,69
+596,"(1996) 
+C. Montana Forli'",26,5200,1951,78.8,78.8
+597,"(1997) 
+Viola Reggio Calabria",26,5200,1946,78.8,78.8
+598,"(2019) 
+A|X Armani Exchange Milano",21,4200,1687,96.6,96.6
+599,"(2012) 
+Angelico Biella",30,6075,2168,67.6,66.7
+600,"(1998) 
+S.D.A.G. Gorizia",26,5250,1868,77.7,77
+601,"(1997) 
+Pepsi Rimini",26,5200,1808,77.7,77.7
+602,"(1998) 
+Pepsi Rimini",26,5225,1774,75.2,74.9
+603,"(2019) 
+Grissin Bon Reggio Emilia",21,4200,1741,93.1,93.1
+604,"(2019) 
+Virtus Roma",22,4425,1727,88,87.5
+605,"(1998) 
+Polti Cantu'",26,5075,1779,74.1,75.9
+606,"(1998) 
+Mabo Pistoia",26,5200,1792,73.1,73.1
+607,"(2019) 
+Umana Reyer Venezia",21,4225,1638,90.3,89.8
+608,"(2019) 
+Pompea Fortitudo Bologna",21,4225,1624,89.8,89.2
+609,"(2019) 
+Dolomiti Energia Trentino",21,4225,1635,87.2,86.7
+610,"(2019) 
+Vanoli Cremona",20,4000,1627,91.6,91.6
+611,"(2019) 
+Allianz Pallacanestro Trieste",22,4425,1671,82.1,81.7
+612,"(2019) 
+Oriora Pistoia",22,4400,1639,81.2,81.2
+613,"(2019) 
+S.Bernardo-Cinelandia Cantù",20,4050,1533,86.8,85.7
+614,"(2019) 
+De'Longhi Treviso",21,4200,1620,82.2,82.2
+615,"(2019) 
+Openjobmetis Varese",19,3825,1570,85.7,85.2
+616,"(2019) 
+Carpegna Prosciutto Basket Pesaro",20,4025,1583,81,80.5
