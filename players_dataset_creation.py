@@ -14,7 +14,7 @@ import sys
 path = os.path.dirname(os.path.abspath("players_dataset_creation.py"))
 path_in = os.path.join(path, "originals")
 path_out = os.path.join(path, "finals")
-filename_out = "players_stats_2003-2004_2023-2024"
+filename_out = "players_stats_2003-2004_2023-2024.csv"
 
 # create the final dataframe that contains all the player dataframes
 final_df = pd.DataFrame()
@@ -47,4 +47,4 @@ print(final_df.head())
 
 print("")
 print(f"saving final dataframe as csv file: {os.path.join(path_out, filename_out)}")
-final_df.to_csv(os.path.join(path_out, filename_out))
+final_df.to_csv(os.path.join(path_out, filename_out), index=False)
