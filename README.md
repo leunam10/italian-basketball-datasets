@@ -48,6 +48,7 @@ The cleaned and manipulated team datasets have the following headers:
 
 - Year: The season year.
 - Team: The name of the team.
+- Total_[stat]: the total value for the specific statistic (e.g. assists).
 - Avg_[stat]: The average value for the specific statistic (e.g., assists).
 - Avg_[stat]_40min: The average value of the statistic per 40 minutes (e.g., assists).
 - Playoff: Indicates if the team qualified for the playoffs.

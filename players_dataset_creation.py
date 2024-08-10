@@ -36,6 +36,7 @@ for filename in os.listdir(path_in):
 
         # adding column for the season year
         df["year"] = year
+        
         # concatenate the dataframes
         final_df = pd.concat([final_df, df])
 
