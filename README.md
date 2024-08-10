@@ -44,20 +44,18 @@ __Player	MVP	Team	GP	MPG	PPG	FGM	FGA	FG%	3PM	3PA	3P%	FTM	FTA	FT%	ORB	DRB	RPG	APG
 
 ### Teams Dataset
 The cleaned and manipulated team datasets have the following headers:
-**Year	Team	Avg_[stat]	Avg_[stat]_40min	playoff	finalist	winner**
+** Team	Year Playoff Finalist Winner GP	MPG	PPG	FGM	FGA	FG%	3PM	3PA	3P%	FTM	FTA	FT%	ORB	DRB	RPG	APG	SPG	BPG	TOV	PF **
 
-- Year: The season year.
 - Team: The name of the team.
-- Total_[stat]: the total value for the specific statistic (e.g. assists).
-- Avg_[stat]: The average value for the specific statistic (e.g., assists).
-- Avg_[stat]_40min: The average value of the statistic per 40 minutes (e.g., assists).
+- Year: The season year.
 - Playoff: Indicates if the team qualified for the playoffs.
 - Finalist: Indicates if the team reached the playoff final.
 - Winner: Indicates if the team won the playoff (and thus the championship).
+
+The other statistcs are the same of the players dataset.
 
 ### Data Sources
 All data have been collected from the following sources:
 
 - [RealGM](https://basketball.realgm.com)
-- [Lega Basket](https://www.legabasket.it/)
 - [Wikipedia](https://it.wikipedia.org/)
