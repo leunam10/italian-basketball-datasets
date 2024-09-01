@@ -37,6 +37,11 @@ for filename in os.listdir(path_in):
         # adding column for the season year
         df["year"] = year
         
+        # correction of the FG%, 3P% and FT% value
+        df["FG%"] = df["FG%"]*1e-3
+        df["3P%"] = df["3P%"]*1e-3
+        df["FT%"] = df["FT%"]*1e-3
+
         # concatenate the dataframes
         final_df = pd.concat([final_df, df])
 

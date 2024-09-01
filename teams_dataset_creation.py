@@ -26,6 +26,11 @@ for filename in os.listdir(path_in):
         # reading csv file
         df = pd.read_csv(os.path.join(path_in, filename))
 
+        # correction of the FG%, 3P% and FT% value
+        df["FG%"] = df["FG%"]*1e-3
+        df["3P%"] = df["3P%"]*1e-3
+        df["FT%"] = df["FT%"]*1e-3
+
         # create the final dataframe 
         final_df = pd.concat([final_df, df])
 
